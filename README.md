@@ -1,7 +1,9 @@
 # rainfall_prediction_australia
 Data science project including data visualization, cleaning, feature engineering, and model selection for a dataset from Kaggle called "Rain in Australia."
 
-.py file exists in dutchakam_patch1 branch
+created using Jupyter Notebook
+
+.ipynb file exists in dutchakam_patch1 branch
 
 Steps for this project:
   1. Data visualization and dropping columns/rows with too much missing data (complete)
